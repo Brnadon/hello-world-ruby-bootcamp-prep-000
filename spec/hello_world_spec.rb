@@ -1,4 +1,4 @@
-describe "Hello World" do 
+describe "Hello World" do
 
   $ ruby hello_world.rb
   Hello World!
